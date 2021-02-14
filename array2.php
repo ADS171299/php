@@ -1,4 +1,4 @@
-
+Crea un array con los meses del año y muestra el que te indique el usuario a través de un formulario con un campo de texto
 <center><div>
 <form>
 <input id="N" name="N" placeholder="Numeros" onkeyup="calcular()" value="1"/>

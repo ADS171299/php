@@ -1,3 +1,4 @@
+Crea un array de compañeros, otro de destinos turísticos y asígnalos aleatoriamente mostrando el resultado
 <pre>
 <?php
 
